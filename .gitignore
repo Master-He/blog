@@ -4,3 +4,6 @@ node_modules
 tmp
 public
 .deploy_git
+db.json
+debug.log
+themes
